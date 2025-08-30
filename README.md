@@ -1,7 +1,6 @@
+![Web Developer](http://127.0.0.1:5500/imag2.png.png)
 ### Hi there 👋, i'm Abu Bakkar
 #### Web Developer
-![Web Developer](http://127.0.0.1:5500/imag2.png.png)
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  HTML / CSS
