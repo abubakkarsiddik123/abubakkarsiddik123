@@ -1,6 +1,6 @@
- Profile Header with Picture 
+<!-- Profile Header with Picture -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/coding-2588491_1280.png" alt="Web Developer" width="190"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Web Developer" width="300"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Abu Bakkar Siddik</h1>
@@ -9,14 +9,14 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 I am currently studying *Diploma in Engineering*  
-- 💻 Learning and building projects with *HTML, CSS, and JavaScript*  
-- 🌱 Goal: To become a skilled *Full-Stack Web Developer*  
+- 🎓 I am currently studying **Diploma in Engineering**  
+- 💻 Learning and building projects with **HTML, CSS, and JavaScript**  
+- 🌱 Goal: To become a skilled **Full-Stack Web Developer**  
 - ⚡ Fun fact: I love solving problems and creating user-friendly designs  
 
 ---
 
-## 🛠 Skills  
+## 🛠️ Skills  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -59,4 +59,4 @@
 
 ---
 
-<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
+<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
