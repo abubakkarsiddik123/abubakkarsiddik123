@@ -1,6 +1,6 @@
 <!-- Profile Header with Picture -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Web Developer" width="300"/>
+  ![Web Development Cover Page](URL_or_file_path_here)
 </p>
 
 <h1 align="center">👋 Hi, I'm Abu Bakkar Siddik</h1>
