@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Abu Bakkar Siddique" width="600"/>
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Abu Bakkar Siddik" width="600"/>
 </div>
 
 # 👋 Hello! I'm Abu Bakkar Siddik
