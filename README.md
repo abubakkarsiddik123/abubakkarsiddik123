@@ -1,4 +1,8 @@
-<!-- Profile Header -->
+ Profile Header with Picture 
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/coding-2588491_1280.png" alt="Web Developer" width="200"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Abu Bakkar Siddik</h1>
 <h3 align="center">💻 A Passionate Web Developer & Diploma in Engineering Student</h3>
 
