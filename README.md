@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=abubakkarsiddik123&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” src="./Abu-bakkar.png"/>
+<img align=”right” alt=”Coding” width=”400” height="300" src="./Abu-bakkar.png"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -24,9 +24,9 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB, SQL & AWS.</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JS, React, Node,taiwind</strong>
 - 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
-- 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
+- 📫 &nbsp; Reach me out: <strong>abubakkar872884@gmail.com.</strong>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
@@ -58,17 +58,17 @@
 <br/>
 
 ```javascript
-const nurAdnan = {
+const abuBakkar = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components", "Jest", "Docker", "Kubernetes"],
+  code: ["JavaScript","HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Next", "Node.js",],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-    coorganizer: "East-West-University",
-    speaker: "English",
+    coorganizer: "Moulvibazar-Polytacnic-institute",
+    speaker: "Computer Science & Tecnology",
     mentor: "Web Developer"
   },
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and JavaScript"
 }
 ```
 
