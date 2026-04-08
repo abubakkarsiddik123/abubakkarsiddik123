@@ -14,7 +14,7 @@
 </div>
 <br/>
 <div align="center">
-## 🌐 Connect with Me
+ 🌐 Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/abubakkarsiddik07">
