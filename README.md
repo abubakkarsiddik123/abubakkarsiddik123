@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=abubakkarsiddik123&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” height="500" src="./abu_bakkar_siddik.png"/>
+<img align="right" alt="Coding" width="400" height="500" src="./abu_bakkar_siddik.png"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -14,17 +14,32 @@
 </div>
 <br/>
 <div align="center">
-  <a href="www.linkedin.com/in/abubakkarsiddik07"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://app.daily.dev/abubakkarsiddik123"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a>
-  <a href="https://abubakkarsiddik123.github.io/my-website-code/"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
-  <a href="https://x.com/NurAdnanChowdhu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/abubakkarsiddik07">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://app.daily.dev/abubakkarsiddik123">
+    <img src="https://img.shields.io/badge/Daily.dev-black?style=for-the-badge&logo=devdotto" />
+  </a>
+  
+  <a href="https://abubakkarsiddik123.github.io/my-website-code/">
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=google-chrome" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/1CdpRF4gDj/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
 </div>
 <hr/>
 <img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, React, Node,taiwind</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JavaScript, React,Node.js,Tailwind CSS</strong>
 - 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
 - 📫 &nbsp; Reach me out: <strong>abubakkar872884@gmail.com</strong>
 
@@ -60,8 +75,8 @@ const abuBakkar = {
   tools: ["React", "Next", "Node.js",],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-    coorganizer: "Moulvibazar-Polytacnic-institute",
-    speaker: "Computer Science & Tecnology",
+    coorganizer: "Moulvibazar-Polytechnic-institute",
+    speaker: "Computer Science & Technology",
     mentor: "Web Developer"
   },
   challenge: "I am doing the #100DaysOfCode challenge focused on React and JavaScript"
