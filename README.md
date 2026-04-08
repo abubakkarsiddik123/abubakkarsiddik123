@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=abubakkarsiddik123&style=for-the-badge)
 
-<img alt="Coding" width="400" height="500" src="./abu_bakkar_siddik.png"/>
+<img alt="Coding"  src="./abu_bakkar_siddik.png"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
