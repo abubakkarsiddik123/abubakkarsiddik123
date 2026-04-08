@@ -20,7 +20,7 @@
   <a href="https://x.com/NurAdnanChowdhu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <hr/>
-<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
 
 ### Talking about Personal Stuff:
 
