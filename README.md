@@ -1,62 +1,74 @@
+![](https://komarev.com/ghpvc/?username=abubakkarsiddik123&style=for-the-badge)
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/coding-2588491_1280.png" alt="Web Developer" width="200"/>
-</p>
+<img align=”right” alt=”Coding” width=”400” src="./abubakkarsiddik123"/>
 
-<h1 align="center">👋 Hi, I'm Abu Bakkar Siddik</h1>
-<h3 align="center">💻 A Passionate Web Developer & Diploma in Engineering Student</h3>
-
----
-
-## 🚀 About Me  
-- 🎓 I am currently studying *Diploma in Engineering*  
-- 💻 Learning and building projects with *HTML, CSS, and JavaScript*  
-- 🌱 Goal: To become a skilled *Full-Stack Web Developer*  
-- ⚡ Fun fact: I love solving problems and creating user-friendly designs  
-
----
-
-## 🛠 Skills  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakkarsiddik123&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkarsiddik123&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-
-## 🔥 Streak Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakkarsiddik123&theme=radical" alt="Streak Stats" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Abu+Bakkar+Siddik....;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+</h1>
 
----
 
-<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
+<div align="center">
+  <strong>Frontend Web Developer 👋 | Expert in JavaScript, React.js, Next.js, Tailwindcss|</strong>
+</div>
+<br/>
+<div align="center">
+  <a href="www.linkedin.com/in/abubakkarsiddik07"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://app.daily.dev/abubakkarsiddik123"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a>
+  <a href="https://abubakkarsiddik123.github.io/my-website-code/"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
+  <a href="https://x.com/NurAdnanChowdhu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
+<hr/>
+<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB, SQL & AWS.</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
+- 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
+
+### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+
+<hr/>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+
+<div align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+</div>
+
+<br/>
+
+```javascript
+const nurAdnan = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components", "Jest", "Docker", "Kubernetes"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "East-West-University",
+    speaker: "English",
+    mentor: "Web Developer"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+}
+```
+
