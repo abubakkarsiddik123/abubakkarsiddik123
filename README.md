@@ -3,11 +3,16 @@
 <img alt="Coding"  src="./abu_bakkar_siddik.png"/>
 
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abu+Bakkar+Siddik+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;%5EExploring+Backend+Architecture+%26+AI+Engineering" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abu+Bakkar+Siddik+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Scalable+Web+Applications;%E2%80%8BExploring+Backend+Architecture+%26+AI+Engineering"
+      alt="Typing SVG"
+    />
   </a>
 </h1>
+
 
 
 <hr/>
