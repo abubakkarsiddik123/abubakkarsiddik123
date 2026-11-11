@@ -9,34 +9,6 @@
 </h1>
 
 
-<div align="center">
-  <strong>Frontend Web Developer 👋 | Expert in JavaScript, React.js, Next.js, Tailwindcss|</strong>
-</div>
-<br/>
-<div align="center">
- 🌐 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/abubakkarsiddik07">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="https://app.daily.dev/abubakkarsiddik123">
-    <img src="https://img.shields.io/badge/Daily.dev-black?style=for-the-badge&logo=devdotto" />
-  </a>
-  
-  <a href="https://abubakkarsiddik123.github.io/my-website-code/">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=google-chrome" />
-  </a>
-  
-  <a href="https://www.facebook.com/share/1CdpRF4gDj/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
-  </a>
-</p>
-</div>
-<hr/>
-<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
-
 ### 👨‍💻 About Me
 
 - 💻 Full-Stack Web Developer focused on building modern, responsive and user-friendly web applications.
