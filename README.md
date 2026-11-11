@@ -18,8 +18,9 @@
 - 📫 **Contact:** [abubakkar872884@gmail.com](mailto:abubakkar872884@gmail.com)
 
 
-<hr/>
 
+<hr/>
+<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
 
 
 ## 🌐 FOLLOW ME ON SOCIALS:
