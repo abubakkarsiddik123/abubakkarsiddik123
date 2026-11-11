@@ -94,22 +94,14 @@
 
 ---
 
-## 📊 GITHUB STATISTICS & ANALYSIS:
+## 🐍 GITHUB CONTRIBUTIONS:
 
-**GitHub Contributions:**
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=abubakkarsiddik123&theme=github-dark&hide_border=true)
-
-**GitHub Stats:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakkarsiddik123&show_icons=true&theme=github_dark&hide_border=true)
-
-**Most Used Languages:**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkarsiddik123&layout=compact&theme=github_dark&hide_border=true)
-
-**GitHub Streak:**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abubakkarsiddik123&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abubakkarsiddik123/abubakkarsiddik123/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 
