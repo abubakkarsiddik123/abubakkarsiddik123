@@ -8,6 +8,9 @@
   </a>
 </h1>
 
+<hr/>
+<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
+
 
 ### 👨‍💻 About Me
 
@@ -20,7 +23,7 @@
 
 
 <hr/>
-<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
+
 
 
 ## 🌐 FOLLOW ME ON SOCIALS:
