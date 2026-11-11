@@ -45,12 +45,7 @@
 - 🤖 **Exploring:** AI Engineering, LangChain, RAG and AI Agents.
 - 📫 **Contact:** [abubakkar872884@gmail.com](mailto:abubakkar872884@gmail.com)
 
-### 🎯 Interests & Focus Areas
 
-- 🚀 Building real-world projects and exploring new technologies.
-- 🧠 Backend engineering, system design and application architecture.
-- 🧩 Problem solving and writing clean, maintainable code.
-- 🤝 Collaborating with developers and contributing to tech communities.
 <hr/>
 
 
@@ -58,10 +53,12 @@
 ## 🌐 FOLLOW ME ON SOCIALS:
 
 <p>
-  <a href="https://linkedin.com/in/abubakkarsiddik07"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://app.daily.dev/abubakkarsiddik123"><img src="https://img.shields.io/badge/daily.dev-111111?style=for-the-badge&logo=dailydotdev&logoColor=white" /></a>
-  <a href="https://abubakkarsiddik123.github.io/my-website-code/"><img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/1CdpRF4gDj/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://linkedin.com/in/abubakkarsiddik07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://abs-portfolio-eight.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
