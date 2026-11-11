@@ -9,7 +9,7 @@
 </h1>
 
 <hr/>
-<img align="right" height="350" width="400" alt="" src="10_coding_dribbble.gif" />
+<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
 
 
 ### 👨‍💻 About Me
