@@ -37,16 +37,20 @@
 <hr/>
 <img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
 
-### Talking about Personal Stuff:
+### 👨‍💻 About Me
 
-- 🛠 &nbsp; I’m currently working with <strong>JavaScript, React,Node.js,Tailwind CSS</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
-- 📫 &nbsp; Reach me out: <strong>abubakkar872884@gmail.com</strong>
+- 💻 Full-Stack Web Developer focused on building modern, responsive and user-friendly web applications.
+- 🛠 **Tech Stack:** JavaScript, React.js, Next.js, Node.js, Express.js and MongoDB.
+- 🌱 **Currently Learning:** TypeScript, PostgreSQL, Drizzle ORM, Docker and Backend Architecture.
+- 🤖 **Exploring:** AI Engineering, LangChain, RAG and AI Agents.
+- 📫 **Contact:** [abubakkar872884@gmail.com](mailto:abubakkar872884@gmail.com)
 
-### My Absolute Favorites:
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+### 🎯 Interests & Focus Areas
 
+- 🚀 Building real-world projects and exploring new technologies.
+- 🧠 Backend engineering, system design and application architecture.
+- 🧩 Problem solving and writing clean, maintainable code.
+- 🤝 Collaborating with developers and contributing to tech communities.
 <hr/>
 
 
